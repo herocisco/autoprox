@@ -1,5 +1,5 @@
 # autoprox
-This is a tool to troubleshoot usage of Proxy Auto Configuration (PAC) or Web Proxy Autodiscovery Protocol (WPAD) files.
+This is a tool to troubleshoot usage of Proxy Auto Configuration (PAC) or Web Proxy Autodiscovery Protocol (WPAD) files. 
 Help for AUTOPROX.EXE
 
 Version : 2.42
